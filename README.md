@@ -1,5 +1,4 @@
 # StudentRecordManagement
-# Student Record System
 
 ## Overview
 The **Student Record System** is a C++ program that manages student records, including their details, semester-wise marks, and CGPA calculations. It also identifies semester-wise toppers for each branch and the entire college.
